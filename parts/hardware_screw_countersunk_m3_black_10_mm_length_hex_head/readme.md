@@ -32,6 +32,18 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| bip_39_word_dash_1 | wrong |  
+| bip_39_word_dash_10 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast-culture-twist |  
+| bip_39_word_dash_11 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast-culture-twist-poet |  
+| bip_39_word_dash_12 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast-culture-twist-poet-advance |  
+| bip_39_word_dash_2 | wrong-dose |  
+| bip_39_word_dash_3 | wrong-dose-unfair |  
+| bip_39_word_dash_4 | wrong-dose-unfair-auto |  
+| bip_39_word_dash_5 | wrong-dose-unfair-auto-rapid |  
+| bip_39_word_dash_6 | wrong-dose-unfair-auto-rapid-cactus |  
+| bip_39_word_dash_7 | wrong-dose-unfair-auto-rapid-cactus-daughter |  
+| bip_39_word_dash_8 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast |  
+| bip_39_word_dash_9 | wrong-dose-unfair-auto-rapid-cactus-daughter-vast-culture |  
 | bip_39_word_new_br_1 | wrong |  
 | bip_39_word_new_br_10 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture<br>twist |  
 | bip_39_word_new_br_11 | wrong<br>dose<br>unfair<br>auto<br>rapid<br>cactus<br>daughter<br>vast<br>culture<br>twist<br>poet |  
@@ -147,6 +159,18 @@ culture |
 | bip_39_word_space_7 | wrong dose unfair auto rapid cactus daughter |  
 | bip_39_word_space_8 | wrong dose unfair auto rapid cactus daughter vast |  
 | bip_39_word_space_9 | wrong dose unfair auto rapid cactus daughter vast culture |  
+| bip_39_word_underscore_1 | wrong |  
+| bip_39_word_underscore_10 | wrong_dose_unfair_auto_rapid_cactus_daughter_vast_culture_twist |  
+| bip_39_word_underscore_11 | wrong_dose_unfair_auto_rapid_cactus_daughter_vast_culture_twist_poet |  
+| bip_39_word_underscore_12 | wrong_dose_unfair_auto_rapid_cactus_daughter_vast_culture_twist_poet_advance |  
+| bip_39_word_underscore_2 | wrong_dose |  
+| bip_39_word_underscore_3 | wrong_dose_unfair |  
+| bip_39_word_underscore_4 | wrong_dose_unfair_auto |  
+| bip_39_word_underscore_5 | wrong_dose_unfair_auto_rapid |  
+| bip_39_word_underscore_6 | wrong_dose_unfair_auto_rapid_cactus |  
+| bip_39_word_underscore_7 | wrong_dose_unfair_auto_rapid_cactus_daughter |  
+| bip_39_word_underscore_8 | wrong_dose_unfair_auto_rapid_cactus_daughter_vast |  
+| bip_39_word_underscore_9 | wrong_dose_unfair_auto_rapid_cactus_daughter_vast_culture |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  

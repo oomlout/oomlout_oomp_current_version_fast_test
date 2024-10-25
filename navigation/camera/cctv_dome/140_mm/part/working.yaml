@@ -1,3 +1,15 @@
+bip_39_word_dash_1: nut
+bip_39_word_dash_10: nut-blind-vacant-evil-surround-mango-once-armor-load-sad
+bip_39_word_dash_11: nut-blind-vacant-evil-surround-mango-once-armor-load-sad-glue
+bip_39_word_dash_12: nut-blind-vacant-evil-surround-mango-once-armor-load-sad-glue-affair
+bip_39_word_dash_2: nut-blind
+bip_39_word_dash_3: nut-blind-vacant
+bip_39_word_dash_4: nut-blind-vacant-evil
+bip_39_word_dash_5: nut-blind-vacant-evil-surround
+bip_39_word_dash_6: nut-blind-vacant-evil-surround-mango
+bip_39_word_dash_7: nut-blind-vacant-evil-surround-mango-once
+bip_39_word_dash_8: nut-blind-vacant-evil-surround-mango-once-armor
+bip_39_word_dash_9: nut-blind-vacant-evil-surround-mango-once-armor-load
 bip_39_word_new_br_1: nut
 bip_39_word_new_br_10: nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load<br>sad
 bip_39_word_new_br_11: nut<br>blind<br>vacant<br>evil<br>surround<br>mango<br>once<br>armor<br>load<br>sad<br>glue
@@ -192,6 +204,18 @@ bip_39_word_space_6: nut blind vacant evil surround mango
 bip_39_word_space_7: nut blind vacant evil surround mango once
 bip_39_word_space_8: nut blind vacant evil surround mango once armor
 bip_39_word_space_9: nut blind vacant evil surround mango once armor load
+bip_39_word_underscore_1: nut
+bip_39_word_underscore_10: nut_blind_vacant_evil_surround_mango_once_armor_load_sad
+bip_39_word_underscore_11: nut_blind_vacant_evil_surround_mango_once_armor_load_sad_glue
+bip_39_word_underscore_12: nut_blind_vacant_evil_surround_mango_once_armor_load_sad_glue_affair
+bip_39_word_underscore_2: nut_blind
+bip_39_word_underscore_3: nut_blind_vacant
+bip_39_word_underscore_4: nut_blind_vacant_evil
+bip_39_word_underscore_5: nut_blind_vacant_evil_surround
+bip_39_word_underscore_6: nut_blind_vacant_evil_surround_mango
+bip_39_word_underscore_7: nut_blind_vacant_evil_surround_mango_once
+bip_39_word_underscore_8: nut_blind_vacant_evil_surround_mango_once_armor
+bip_39_word_underscore_9: nut_blind_vacant_evil_surround_mango_once_armor_load
 classification: camera
 classification_capital: Camera
 classification_first_letter: c
