@@ -1,3 +1,4 @@
 #- "camera_cctv_dome_140_mm"
 #- "hardware_screw_countersunk_m3_black_12_mm_length_hex_head"
-- "electronic*"
+#- "electronic*"
+- "hardware_screw*"
