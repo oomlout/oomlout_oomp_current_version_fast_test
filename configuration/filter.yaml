@@ -1,5 +1,6 @@
-#- "camera_cctv_dome_140_mm"
+- "camera_cctv_dome_140_mm"
 - "hardware_screw_countersunk_m3_black_12_mm_length_hex_head"
 #- "electronic*"
 #- "hardware_screw*"
 - "packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066"
+#- "*teardown*"
